@@ -1,1 +1,0 @@
-[![Build Status](https://travis-ci.org/AdelMahjoub/template-driven-express-starter-pack.svg?branch=master)](https://travis-ci.org/AdelMahjoub/template-driven-express-starter-pack)
