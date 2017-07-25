@@ -1,5 +1,6 @@
 {
-  "name": "01-testing-express",
+  "name": "template-driven-express-app-starter-pack",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "server.js.js",
@@ -16,8 +17,8 @@
     "start": "npm-run-all build:dist prod-server",
     "test": "mocha"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["nodejs", "express", "mongodb", "template driven web app"],
+  "author": "AdelMahjoub",
   "license": "ISC",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",

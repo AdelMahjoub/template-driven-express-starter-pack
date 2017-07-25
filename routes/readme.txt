@@ -1,1 +1,1 @@
-Add express app routes in this folder
+Add routes in this folder

@@ -1,1 +1,1 @@
-Add any request to external service in this folder
+Add any request to external ressources in this folder

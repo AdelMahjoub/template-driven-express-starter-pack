@@ -1,2 +1,2 @@
 Add configs in this folder
-exemple session config and passportjs configs etc
+exemple session config, cookies config and passportjs configs

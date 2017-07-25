@@ -1,1 +1,1 @@
-Client i.e browser app source code in this folder
+Client i.e browser's app source code in this folder
