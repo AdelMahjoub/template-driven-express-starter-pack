@@ -2,7 +2,7 @@
   "name": "template-driven-express-app-starter-pack",
   "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "A beginners friendly starter boilerplate for building template driven web apps/sites using expressjs",
   "main": "server.js.js",
   "engines": {
     "node": "6.11.1",
