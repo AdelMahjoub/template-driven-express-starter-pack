@@ -1,8 +1,8 @@
 {
-  "name": "template-driven-express-app-starter-pack",
+  "name": "express-app-starter-pack",
   "private": true,
   "version": "1.0.0",
-  "description": "A beginners friendly starter boilerplate for building template driven, multi pages web apps/sites using expressjs",
+  "description": "A beginners friendly starter boilerplate for building multi pages or single page web apps using expressjs",
   "main": "server.js.js",
   "engines": {
     "node": "6.11.1",
