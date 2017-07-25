@@ -20,8 +20,7 @@
   "keywords": [
     "nodejs",
     "express",
-    "mongodb",
-    "template driven web app"
+    "mongodb"
   ],
   "author": "AdelMahjoub",
   "license": "ISC",
