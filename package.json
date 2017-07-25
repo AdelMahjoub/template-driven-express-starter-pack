@@ -15,7 +15,8 @@
     "prod-server": "NODE_ENV=production forever server.js",
     "dev": "npm-run-all -p -r build:dev dev-server",
     "start": "npm-run-all build:dist prod-server",
-    "test": "mocha"
+    "test": "mocha",
+    "check": "nsp check"
   },
   "keywords": [
     "nodejs",
@@ -59,6 +60,7 @@
     "cheerio": "^1.0.0-rc.2",
     "mocha": "^3.4.2",
     "nodemon": "^1.11.0",
+    "nsp": "^2.6.3",
     "supertest": "^3.0.0"
   }
 }
