@@ -4,7 +4,7 @@ const server = require('../server')['server'];
 describe('landing page', function() {
   it('returns a html response', function(done) {
     superTest(server)
-      .get('/')
+      .get('/login')
       .set('Accept', 'text/html')
       .expect('Content-type', /text\/html/)
       .expect(200)
